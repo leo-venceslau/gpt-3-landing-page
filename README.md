@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# GPT-3 Landing Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a responsive landing page built with React.
 
 ## Available Scripts
 
